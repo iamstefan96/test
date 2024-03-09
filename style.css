@@ -1,0 +1,48 @@
+body {
+    
+    font-family: 'Oswald', Helvetica, sans-serif;
+    font-size: 40px;
+    
+    letter-spacing: 4px;
+    
+   
+  }
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1502045856-4882464b27a9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=eb58b8557664af04651b19dbe014a86e&auto=format&fit=crop&w=1600&q=60");
+    background-size: cover;
+}
+
+li {
+    color: #fff;
+    margin-left: 200px;
+  }
+
+h1, p {
+    color:#482762;
+    margin-left: 200px;
+  }
+
+input {
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 200px;
+  }
+
+  button {
+    color: #fff; 
+    background: #a0829b;
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+  .deleteButton {
+    background-color: #a0829b;
+    color: #fff;
+    border-radius: 30px;
+    margin: 20px;
+  }
+
+  .done {
+    text-decoration: line-through #ff3c3c;
+  }
